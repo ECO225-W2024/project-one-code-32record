@@ -1,0 +1,136 @@
+﻿X,Y,BLDG_ID,BLDG_NAME,ADDRESS,CITY,ZIPCODE,CSP_SCH_ID,SCH_ID,SCH_NAME,SCH_LABEL,SCH_TYPE,SHARED,COMPLEX,OBJECTID
+-71.0041205747065,42.3887986807277,1,Guild Bldg,195 Leyden Street,East Boston,02128,4061,4061,Guild Elementary,Guild,ES, , ,1
+-71.0304802925798,42.3785452984432,3,"Kennedy, P Bldg",343 Saratoga Street,East Boston,02128,4541,4541,Kennedy Patrick Elem,PJ Kennedy,ES, , ,2
+-71.0338905836201,42.375278677199,4,Otis Bldg,218 Marion Street,East Boston,02128,4322,4322,Otis Elementary,Otis,ES, , ,3
+-71.0380107179525,42.3780886176424,6,Odonnell Bldg,33 Trenton Street,East Boston,02128,4543,4543,O'Donnell Elementary,O'Donnell,ES, , ,4
+-71.0349214339899,42.3809574570732,7,East Boston High Bldg,86 White Street,East Boston,02128,1070,1070,East Boston High,East Boston HS,HS, , ,5
+-71.0403298241478,42.3782899931749,8,Umana / Barnes Bldg,312 Border Street,East Boston,02128,4323,4323,Umana/ Alighieri K-8,Umana/ Alighieri K-8,K-8, , ,6
+-71.0341199496129,42.3696760226098,10,East Boston Eec Bldg,135 Gove Street,East Boston,02128,4450,4450,East Boston EEC,East Boston EEC,ELC, , ,7
+-71.0343075828973,42.369273676235,11,Mckay Bldg,122 Cottage Street,East Boston,02128,4360,4360,McKay K-8,McKay K-8,K-8, , ,8
+-71.034890310494,42.365563004886,12,Adams Bldg,165 Webster Street,East Boston,02128,4361,4361,Adams Elementary,Adams,ES, , ,9
+-71.0574922451139,42.3766285174585,13,Harvard-Kent,50 Bunker Hill Street,Charlestown,02129,4280,4280,Harvard/Kent Elem,Harvard/Kent,ES, , ,10
+-71.0610705929635,42.3801186773369,14,Charlestown High Bldg #1 -  Main,240 Medford Street,Charlestown,02129,1050,1050,Charlestown High,Charlestown HS,HS, , ,11
+-71.0672312443177,42.3790803558622,15,Edwards Bldg,28 Walker Street,Charlestown,02129,2010,2010,Edwards Middle,Edwards MS,MS, , ,12
+-71.0644305932995,42.3779986761811,16,Warren-Prescott Bldg,50 School Street,Charlestown,02129,4283,4283,Warren/Prescott,Warren/Prescott K-8,K-8, , ,13
+-71.0533696697166,42.3661027414134,17,Eliot Bldg,16 Charter Street,Boston,02113,4381,4381,Eliot K-8,Eliot K-8,K-8, , ,14
+-71.0690502461414,42.3484082936123,21,Abraham Lincoln Building,152 Arlington Street,Boston,02116,1450,1450,Quincy Upper School,Quincy Upper (6-12),K-12, , ,15
+-71.0649205917807,42.347978670692,22,Boston HS Bldg,885 Washington Street,Boston,02111,4650,4650,Quincy Lower (K-5),Quincy Lower (K-5),K-12, , ,16
+-71.0779705961947,42.3505786710202,24,Snowden Hs Bldg,150 Newbury Street,Boston,02116,1200,1200,Snowden International,Snowden HS,HS, , ,17
+-71.0735205942555,42.3443686697464,26,Mckinley Mackey Bldg,90 Warren Avenue,Boston,02116,1291,1291,McKinley Elementary,McKinley Elem,Special,Shared, ,18
+-71.0735205942555,42.3443686697464,26,Mckinley Mackey Bldg,90 Warren Avenue,Boston,02116,1294,1294,McKinley So. End Acad,McKinley S. End Acad,Special,Shared, ,19
+-71.0777405955685,42.3387586689072,27,Hurley Bldg,70 Worcester Street,Boston,02118,4260,4260,Hurley Elementary,Hurley K-8,K-8, , ,20
+-71.0724610665085,42.3407375517853,28,Blackstone Bldg,380 Shawmut Avenue,Boston,02118,4640,4640,Blackstone Elementary,Blackstone,ES, , ,21
+-71.0713314054812,42.3262170313786,31,Mason Bldg,150 Norfolk Avenue,Roxbury,02119,4121,4121,Mason Elementary,Mason,ES, , ,22
+-71.0581913447585,42.3231761951966,33,Clap Bldg,35 Harvest Street,Dorchester,02125,4531,4531,Clap Elementary,Clap,ES, , ,23
+-71.0505405863445,42.3313186682185,35,Perkins Bldg,50 Burke Street,South Boston,02127,4022,4022,Perkins Elementary,Perkins,ES, , ,24
+-71.0448905846788,42.3328686689203,36,South Boston Ed. Bldg,95 G Street,South Boston,02127,1162,1162,Excel High,Excel HS,HS,Shared,S. Boston EC,25
+-71.0384112843871,42.3348707073629,37,Tynan Bldg,650 E. Fourth Street,South Boston,02127,4590,4590,Tynan Elementary,Tynan,ES, , ,26
+-71.0301987442427,42.3321207690511,38,Perry Bldg,745 E. Seventh Street,South Boston,02127,4592,4592,Perry K-8,Perry K-8,K-8, , ,27
+-71.0595494081695,42.3203824114603,39,Russell Bldg,750 Columbia Road,Dorchester,02125,4530,4530,Russell Elementary,Russell,ES, , ,28
+-71.0779090190448,42.3302752098705,42,Orchard Gardens K-8,906 Albany Street,Roxbury,02119,4680,4680,Orchard Gardens K-8,Orchard Gardens K-8,K-8, , ,29
+-71.174340624339,42.2822686545933,131,West Roxbury Ed. Bldg,1205 V.F.W. Parkway,West Roxbury,02132,1256,1256,West Roxbury Academy,W. Roxbury Acad,HS,Shared, ,30
+-71.0504296564989,42.3335737215474,83,Gavin Bldg,215 Dorchester Street,South Boston,02127,1325,1325,Middle School Academy,MS Acad,Special, , ,31
+-71.0504296564989,42.3335737215474,34,Gavin Bldg,215 Dorchester Street,South Boston,02127,2450,2450,UP Academy,UP Academy,MS, , ,32
+-71.081710596611,42.327028666327,44,Wheatley Bldg,20 Kearsage Avenue,Roxbury,02119,1410,1410,Boston Evening Academy,BDEA,Special,Shared, ,33
+-71.0838399754365,42.3405597742244,45,Carter Center Bldg,396 Northampton Street,Roxbury,02118,4261,4261,Carter Center,Carter Center,Special, , ,34
+-71.0902905994182,42.3317586670198,47,Madison Park Bldg #1,75 Malcolm X Blvd,Roxbury,02120,12101,1210,Madison Park High,Madison Park HS,HS, , ,35
+-71.0887925992453,42.332038666866,48,Madison Park Bldg #3 - O'Bryant,55 Malcolm X Blvd,Roxbury,02120,1030,1030,O'Bryant Math & Sci.,O'Bryant School,6/7-12, , ,36
+-71.0909705995376,42.3303986664829,49,Timilty Bldg,205 Roxbury Street,Roxbury,02119,2040,2040,Timilty Middle,Timilty MS,MS, , ,37
+-71.0910405989387,42.3255486659004,50,Hale Bldg,51 Cedar Street,Roxbury,02119,4113,4113,Hale Elementary,Hale,ES, , ,38
+-71.0863095664433,42.3209483433356,51,Lewis Bldg,131 Walnut Avenue,Roxbury,02119,4242,4242,Higginson/Lewis K-8,Higginson/Lewis K-8,K-8, , ,39
+-71.0789391285933,42.3149668544207,53,Blue Hill Ave Eec Bldg,263 Blue Hill Ave,Roxbury,02119,4460,4460,Haynes EEC,Haynes EEC,ELC, , ,40
+-71.0878410546405,42.3157400345081,54,Trotter Bldg,135 Humboldt Avenue,Dorchester,02121,4580,4580,Trotter K-8,Trotter K-8,K-8, , ,41
+-71.0845005969563,42.3161586640829,55,Boston Latin Academy Bldg,205 Townsend Street,Boston,02121,1020,1020,Boston Latin Academy,Boston Latin Acad,6/7-12, , ,42
+-71.0928915949827,42.3163342994336,56,Ellis Bldg,302 Walnut Avenue,Roxbury,02119,4240,4240,Ellis Elementary,Ellis,ES, , ,43
+-71.0756266005436,42.3182026505446,57,Winthrop Bldg,35 Brookford Street,Dorchester,02125,4052,4052,Winthrop Elementary,Winthrop,ES, , ,44
+-71.0761965933492,42.311299663348,58,King Bldg,77 Lawrence Avenue,Dorchester,02121,4055,4055,King K-8,King K-8,K-8, , ,45
+-71.0754108246073,42.3090540227507,59,Frederick Middle,270 Columbia Road,Dorchester,02121,2360,2360,Frederick Pilot Middle,Frederick MS,MS, , ,46
+-71.0738590187824,42.3056181292661,62,Holland Bldg,85 Olney Street,Dorchester,02121,4250,4250,Holland Elementary,Holland,ES, , ,47
+-71.0610117718459,42.3083962123703,63,Mather Bldg,1 Parish Street,Dorchester,02122,4350,4350,Mather Elementary,Mather,ES, , ,48
+-71.070729431583,42.2999261467424,67,Marshall Bldg,35 Westville Street,Dorchester,02124,4345,4345,UP Academy Charter School of Dorchester,UP Academy of Dorchester,K-8, , ,49
+-71.0622206437685,42.2939667271706,69,Ohearn Bldg,1669 Dorchester Avenue,Dorchester,02122,4391,4391,Henderson Lower (K-3),Henderson Lower (K-3),K-12, , ,50
+-71.049194058989,42.2942061768223,70,Murphy Bldg,1 Worrell Street,Dorchester,02122,4400,4400,Murphy K-8,Murphy K-8,K-8, , ,51
+-71.0531915370764,42.2865502504038,71,Kenny Bldg,19 Oakton Avenue,Dorchester,02122,4390,4390,Kenny Elementary,Kenny,ES, , ,52
+-71.0695699265424,42.2812617275529,72,Wilson Bldg,18 Croftland Avenue,Dorchester,02124,1140,1140,Henderson Upper (4-12),Henderson Upper (4-12),K-12, , ,53
+-71.0774305656595,42.277860746688,73,Taylor Bldg,1060 Morton Street,Mattapan,02126,4151,4151,Taylor Elementary,Taylor,ES, , ,54
+-71.0809105936998,42.28141865783,74,Thompson Bldg,100 Maxwell Street,Dorchester,02124,1990,1990,Boston International HS,Boston Intl HS,Special,Shared, ,55
+-71.0809105936998,42.28141865783,74,Thompson Bldg,100 Maxwell Street,Dorchester,02124,1991,1991,Newcomers Academy,Newcomers Acad,Special,Shared, ,56
+-71.0904295965388,42.2767606568668,77,Mildred Avenue Bldg,5 Mildred Avenue,Mattapan,02126,4671,4671,Mildred Avenue K-8,Mildred Ave K-8,K-8, , ,57
+-71.0767914546358,42.2877921541013,78,Dorchester Ed. Bldg #1 - Main,9 Peacevale Road,Dorchester,02124,1460,1460,TechBoston Academy,TechBoston,6/7-12, , ,58
+-71.0803754196178,42.2924381049575,80,Lee Bldg,155 Talbot Avenue,Dorchester,02124,4290,4290,Lee Elementary,Lee School (2-6),K-8, , ,59
+-71.0730086271986,42.2866089266827,79,Fifield Bldg,25 Dunbar Ave.,Dorchester,02124,4291,4291,Lee Academy,Lee Academy (K0-1),ES, , ,60
+-71.0756002591556,42.2967884983735,82,Holmes Bldg,40 School Street,Dorchester,02124,4084,4084,Holmes Elementary,Holmes,ES, , ,61
+-71.0950023339489,42.2823146603022,85,Lewenberg Bldg,20 Outlook Road,Mattapan,02126,4600,4600,Young Achievers K-8,Young Achievers K-8,K-8, , ,62
+-71.1040894427701,42.2758153095771,86,Mattahunt Bldg,100 Hebron Street,Mattapan,02126,4690,4690,Mattahunt Elementary,Mattahunt,ES, , ,63
+-71.1047806003227,42.2672586545318,87,Chittick Bldg,154 Ruskindale Road,Mattapan,02126,4070,4070,Chittick Elementary,Chittick,ES, , ,64
+-71.0617294210316,42.3011287906276,65,Cleveland Bldg,11 Charles Street,Dorchester,02122,1103,1103,Comm Acad Sci Health,CASH,HS,Shared, ,65
+-71.1177406058554,42.2854086570265,91,Philbrick Bldg,40 Philbrick Street,Roslindale,02131,4561,4561,Philbrick Elementary,Philbrick,ES, , ,66
+-71.1077206021497,42.2867586577421,92,Haley Bldg,570 American Legion Highway,Roslindale,02131,4210,4210,Haley Elementary,Haley,K-8, , ,67
+-71.1159406055389,42.2946386589098,93,Parkman Bldg,25 Walk Hill Street,Jamaica Plain,02130,4661,4661,BTU K-8 Pilot,BTU Pilot School K-8,K-8, , ,68
+-71.1234511664221,42.2429507593291,96,Roosevelt Bldg,95 Needham Road,Hyde Park,02136,4192,4192,Roosevelt Upper (2-7),Roosevelt K-8 (Upper),K-8, , ,69
+-71.1333206086686,42.2516286505472,98,Channing Bldg,35 Sunnyside Street,Hyde Park,02136,4201,4201,Channing Elementary,Channing,ES, , ,70
+-71.1273206074117,42.2567686511982,99,Grew Bldg,40 Gordon Avenue,Hyde Park,02136,4200,4200,Grew Elementary,Grew,ES, , ,71
+-71.1270506084516,42.2747986548434,100,Conley Bldg,450 Poplar Street,Roslindale,02131,4080,4080,Conley Elementary,Conley,ES, , ,72
+-71.124930607657,42.2836386566883,101,Irving Bldg,105 Cummins Highway,Roslindale,02131,2140,2140,Irving Middle,Irving MS,MS, , ,73
+-71.1268406084304,42.2864586576535,102,Sumner Bldg,15 Basile Street,Roslindale,02131,4560,4560,Sumner Elementary,Sumner,ES, , ,74
+-71.1034906021924,42.3089286624683,105,Fuller Bldg,25 Glen Road,Jamaica Plain,02130,1340,1340,Community Academy,Community Acad,Special, , ,75
+-71.0981202067,42.3139378837254,107,Hernandez Bldg,61 School Street,Roxbury,02119,4053,4053,Hernandez K-8,Hernandez K-8,K-8, , ,76
+-71.1096006042263,42.30600866104,108,English Hs Bldg,144 Mcbride Street,Jamaica Plain,02130,1080,1080,English High,English HS,HS, , ,77
+-71.101610602586,42.3165586640321,109,Mendell Bldg,164 School Street,Roxbury,02119,4370,4370,Mendell Elementary,Mendell,ES, , ,78
+-71.1058393826114,42.321785326977,110,"Kennedy, J  Bldg",7 Bolster Street,Jamaica Plain,02130,4270,4270,Kennedy John F Elemen,JF Kennedy,ES, , ,79
+-71.10693577134,42.3262927571696,111,Hennigan Bldg,200 Heath Street,Jamaica Plain,02130,4231,4231,West Zone ELC,West Zone ELC,ELC,Shared, ,80
+-71.0982906023034,42.3330186669578,113,Tobin Bldg,40 Smith Street,Roxbury,02120,4570,4570,Tobin K-8,Tobin K-8,K-8, , ,81
+-71.1016906039024,42.3378986679279,115,Boston Latin School Bldg,78 Avenue Louis Pasteur,Boston,02115,1010,1010,Boston Latin School,Boston Latin Sch,6/7-12, , ,82
+-71.091530600167,42.341458668465,116,Health Careers Academy,110 The Fenway,Boston,02115,1440,1440,Kennedy Health Careers Academy,Kennedy HCA,HS, , ,83
+-71.099178020709,42.330588277467,118,Mission Hill Bldg,67 Allegheny Street,Roxbury,02120,1265,1265,Fenway High,Fenway HS,HS, , ,84
+-71.0943212799182,42.3467726135953,118,Ipswich St Bldg,174 Ipswich Street,Boston,02215,1420,1420,Boston Arts Academy,BAA,HS, , ,85
+-71.0992606029218,42.3434386690444,119,Mckinley Peterborough Bldg,97 Peterborough Street,Boston,02215,1293,1293,McKinley Prep High Sch,McKinley Prep HS,Special, , ,86
+-71.1067606061076,42.3479486697696,120,Mckinley St Mary'S St Bldg,50 St. Mary Street,Boston,02215,1292,1292,McKinley Middle,McKinley MS,Special, , ,87
+-71.1142189126879,42.3186854767418,121,"Curley, J.  Bldg",40 Pershing Road,Jamaica Plain,02130,42721,4272,Curley Lower (K1-5),Curley K-8 (Lower),K-8, , ,88
+-71.1129506057296,42.3185086640135,122,"Curley, Mary  Bldg",493 Centre Street,Jamaica Plain,02130,42722,4272,Curley Upper (6-8),Curley K-8 (Upper),K-8, , ,89
+-71.1314906113194,42.3055886607117,124,Manning Bldg,130 Louders Lane,Jamaica Plain,02130,4311,4311,Manning Elementary,Manning,ES, , ,90
+-71.1353306108931,42.277768655305,126,Bates Bldg,426 Beech Street,Roslindale,02131,4081,4081,Bates Elementary,Bates,ES, , ,91
+-71.1410506131549,42.2812286561306,127,Mozart Bldg,236 Beech Street,Roslindale,02131,4082,4082,Mozart Elementary,Mozart,ES, , ,92
+-71.1523676175191,42.2926606574869,128,Russett Road Bldg,140 Russett Road,West Roxbury,02132,4033,4033,Kilmer Upper (4-8),Kilmer K-8 (Upper),K-8, , ,93
+-71.156130616956,42.2634386515138,129,Beethoven Bldg,5125 Washington Street,West Roxbury,02132,4030,4030,Beethoven Elementary,Beethoven (K1-3),ES, , ,94
+-71.1625701258182,42.2718858195067,130,Kilmer Bldg,35 Baker Street,West Roxbury,02132,4031,4031,Kilmer Lower (K1-3),Kilmer K-8 (Lower),K-8, , ,95
+-71.174340624339,42.2822686545933,131,West Roxbury Ed. Bldg,1205 V.F.W. Parkway,West Roxbury,02132,1253,1253,Urban Science Academy,Urban Science Academy,HS,Shared,West Roxbury EC,96
+-71.1583706186444,42.2829986556232,132,"Shaw, R.G.  Bldg",20 Mt. Vernon Street,West Roxbury,02132,4331,4331,Lyndon K-8,Lyndon K-8,K-8, , ,97
+-71.1601906232247,42.3455886676417,133,Edison Bldg,60 Glenmont Road,Brighton,02135,4178,4178,Edison K-8,Edison K-8,K-8, , ,98
+-71.1615006240203,42.3510786681601,135,"Lyon, Mary  Bldg",50 Beechcroft Street,Brighton,02135,4171,4171,Lyon K-8,Lyon K-8,K-12, , ,99
+-71.1607606239944,42.3521286682217,136,Garfield Bldg,95 Beechcroft Street,Brighton,02135,1171,1171,"Lyon, Mary 9-12",Lyon 9-12,K-12, , ,100
+-71.1553485995512,42.3476017034004,137,Winship Bldg,54 Dighton Street,Brighton,02135,4173,4173,Winship Elementary,Winship,ES, , ,101
+-71.1452866627197,42.3505727781315,139,Taft Bldg,20 Warren Street,Brighton,02135,1230,1230,Another Course to College,ACC,HS,Shared, ,102
+-71.1454906181376,42.3490886682428,140,Brighton High School Bldg,25 Warren Street,Brighton,02135,1040,1040,Brighton High,Brighton HS,HS, , ,103
+-71.1405106167572,42.3420386676444,141,Baldwin Bldg,121 Corey Road,Brighton,02135,4621,4621,Baldwin ELPA,Baldwin ELPA,ELC, , ,104
+-71.1377006163627,42.3520586693097,142,Jackson Mann Bldg,40 Armington Street,Allston,02134,4610,4610,Horace Mann,Horace Mann K-12,Special,Shared, ,105
+-71.1377006163627,42.3520586693097,142,Jackson Mann Bldg,40 Armington Street,Allston,02134,4620,4620,Jackson/Mann K-8,Jackson/Mann K-8,K-8,Shared, ,106
+-71.1177238306497,42.2632170636439,89,Hyde Park EC,655 Metropolitan Ave,Hyde Park,02136,1285,1285,New Mission High,New Mission HS,HS,Shared, ,107
+-71.1341106157255,42.3607686714995,144,Gardner Bldg,30 Athol Street,Allston,02134,4160,4160,Gardner Elementary,Gardner,K-8, , ,108
+-71.149610614461,42.2607586517277,145,Ohrenberger Bldg,175 West Boundary Road,West Roxbury,02132,4410,4410,Ohrenberger Elementary,Ohrenberger 3-8,K-8, , ,109
+-71.0597697600677,42.3136876120117,146,Everett Bldg,71 Pleasant Street,Dorchester,02125,4140,4140,Everett Elementary,Everett,ES, , ,110
+-71.0868403252533,42.2821209446528,148,"Shaw, P.A. Bldg",429 Norfolk Street,Dorchester,02124,4670,4670,P.A. Shaw,P.A. Shaw,ES, , ,111
+-71.0806620170795,42.2965601131819,149,"Greenwood, S Bldg",189 Glenway Street,Dorchester,02121,4130,4130,Greenwood Sarah K-8,S. Greenwood K-8,K-8, , ,112
+-71.0816252359603,42.3068187606906,150,Burke High School Bldg,60 Washington Street,Dorchester,02121,1120,1120,Burke High,Burke HS,HS, , ,113
+-71.042740582885,42.3176286659502,152,Dever Bldg,325 Mt. Vernon Street,Dorchester,02125,4100,4100,Dever Elementary,Dever,ES, , ,114
+-71.0435005830601,42.3180286655589,153,Mccormack Bldg,315 Mt. Vernon Street,Dorchester,02125,2190,2190,McCormack Middle,McCormack MS,MS, , ,115
+-71.0521512214527,42.338025893716,156,Condon Bldg,200 D Street,South Boston,02127,4630,4630,Condon Elementary,Condon K-8,K-8, , ,116
+-71.1328806078733,42.2338986474128,998,New Roosevelt Bldg,30 Millstone Road,Hyde Park,02136,4193,4193,Roosevelt K-8 (K1-1),Roosevelt K-8 (Lower),K-8, , ,117
+-71.0050450754183,42.3916161798962,2,"Bradley Bldg
+",110 Beachview Road,East Boston,02128,4062,4062,Bradley Elementary,Bradley,ES, , ,118
+-71.1069106899716,42.3256221228247,111,Hennigan Bldg,200 Heath Street,Jamaica Plain,02130,4230,4230,Hennigan K-8,Hennigan K-8,K-8,Shared, ,119
+-71.0918905966418,42.2717886551467,76,Mattapan Eec Bldg,108 Babson Street,Mattapan,02126,4440,4440,Ellison/ Parks ELC,Ellison/ Parks ELC,ELC, , ,120
+-71.0992906018109,42.3141286631161,106,Greater Egleston High,80 School Street,Roxbury,02119,1430,1430,Greater Egleston High,Greater Egleston HS,HS, , ,121
+-71.0767914546358,42.2877921541013,72,Dorchester Ed. Bldg #1 - Main,9 Peacevale Road,Dorchester,02124,1459,1459,TechBoston Acad Lower (6-9),TechBoston Lower (6-9),6/7-12,Shared, ,122
+-71.1138674411733,42.3070351534967,123,Agassiz Building,20 Child St,Jamaica Plain,02130,4285,4285,Mission Hill K-8,Mission Hill K-8,K-8,Shared, ,123
+-71.1144821849434,42.3072082930482,123,Agassiz Building,20 Child St,Jamaica Plain,02130,1053,1053,Margarita Muniz Academy,Muniz Academy,HS,Shared, ,124
+-71.0733736622811,42.3219274728889,30,Emerson Building,6 Shirley St,Roxbury,02119,4123,4123,Dudley Street Neighborhood Charter School,Dudley St NCS,ES, , ,125
+-71.1065636650741,42.3339314261802,114,Farragut Building,10 Fenwood Road,Jamaica Plain,02115,1440,1440,Kennedy Health Careers Academy,Kennedy HCA,HS, , ,126
+-71.1178860654048,42.2632278970084,89,Hyde Park EC,655 Metropolitan Ave,Hyde Park,02136,1195,1195,Community Leadership Academy,BCLA,HS,Shared, ,127
+-71.0571761702122,42.3683352259489,1000,585 Commercial Bldg,585 Commercial Street,Boston,02109,4381,4381,Eliot K-8,Eliot K-8,K-8, , ,128
+-71.0920295706407,42.3176601890439,52,Higginson Bldg,160 Harrishof Street,Roxbury,02119,4241,4241,Higginson Elementary,Higginson (K-2),ES, , ,129
+-71.0379400823357,42.3715684364284,0,Alighieri Bldg,37 Gove St.,East Boston,02128,4321,4321,Alighieri Montessori,Alighieri,ES, , ,130
+-71.0681495356504,42.3487697101951,0,Church Street Bldg,20 Church Street,Boston,02116,1215,1215,Boston Adult Tech Acad,BATA,Special, , ,131
+-71.0618211620518,42.3008213309672,65,Cleveland Bldg,11 Charles Street,Dorchester,02122,1064,1064,Dorchester Academy,Dorchester Academy,HS,Shared, ,132
+-71.1459610582401,42.3504407250359,139,Taft Bldg,20 Warren Street,Brighton,02135,1470,1470,Boston Green Academy,Boston Green Academy,6/7-12,Shared, ,133
+-71.0808077057984,42.3073951680894,150,Burke High School Bldg,60 Washington Street,Dorchester,02121,1260,1260,Dearborn Middle School,Dearborn MS,6/7-12,Shared, ,134
